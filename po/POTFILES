@@ -1,0 +1,7 @@
+data/me.rmirshra.clamptools.posts.desktop.in
+data/me.rmirshra.clamptools.posts.appdata.xml.in
+data/me.rmirshra.clamptools.posts.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+
